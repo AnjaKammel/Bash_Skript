@@ -1,7 +1,8 @@
 # Mein erstes Git Repositorium
 ## meine BASH Skripte
-- Author: Anja K
-- 
+Author: 
+- Anja K
+- K., Anja
 Date: 2022-04-25
 
 
